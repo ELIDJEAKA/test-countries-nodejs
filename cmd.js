@@ -1,8 +1,7 @@
-// console.log(process);
-
+// Import du fichier data
 var data = require("./data.js").data; //
-const util = require("util");
 
+//Mise en place des fonctions de recherche, count
 const CommandeLine =  {
 
      recherche : (textSearch, countries=data) =>{

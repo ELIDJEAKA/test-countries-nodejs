@@ -19,5 +19,5 @@ if (process.argv[2]=='--count'){ // Vérfie si la commande saisie est '--count'
     const resultFilter = cmd.recherche(filter);
     logObject(resultFilter);
 }else{
-    console.log("commande non reconnue")
+    console.log("Commande non reconnue")
 };

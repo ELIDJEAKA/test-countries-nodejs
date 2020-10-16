@@ -1,7 +1,7 @@
 {
-  "name": "lille",
+  "name": "test_countries_nodejs",
   "version": "1.0.0",
-  "description": "## Context Your job is to write a command-line interface in Node.js.  This program has to filter a list of elements containing a pattern.",
+  "description": "## consiste à écrire une interface de ligne de commande dans Node.js. Ce programme doit filtrer une liste d'éléments contenant un modèle.",
   "main": "app.js",
   "scripts": {
     "test": "jest"
